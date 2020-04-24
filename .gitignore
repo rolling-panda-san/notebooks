@@ -104,3 +104,6 @@ ENV/
 # notebooks
 .ipynb_checkpoints
 *.hdf5
+
+# vivace
+/vivace
