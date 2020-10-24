@@ -16,6 +16,7 @@ Currently it maintains following strategies:
 # Reference
 - Asness, C.S., Moskowitz, T.J. and Pedersen, L.H., 2013. Value and momentum everywhere. The Journal of Finance, 68(3), pp.929-985.
 - Bakshi, G., Gao, X. and Rossi, A.G., 2019. Understanding the sources of risk underlying the cross section of commodity returns. Management Science, 65(2), pp.619-641.
+- Baltas, N. and Salinas, G., 2019. Cross-Asset Skew. Available at SSRN.
 - Deutsche Bank, 2009, db Currency Return.
 - Fernandez-Perez, A., Frijns, B., Fuertes, A.M. and Miffre, J., 2018. The skewness of commodity futures returns. Journal of Banking & Finance, 86, pp.143-158.
 - Hollstein, F., Prokopczuk, M. and Tharann, B., 2020. Anomalies in commodity futures markets: Risk or mispricing?. Available at SSRN.
