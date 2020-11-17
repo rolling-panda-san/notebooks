@@ -11,6 +11,7 @@ Currently it maintains following strategies:
 - Commodity term structure (aka commodity carry, Koijen 2018 etc)
 - Commodity momentum (Asness 2013 etc)
 - Commodity skewness (Fernandez-Perez 2018 etc)
+- Cross-asset skewness (Baltas 2019 etc)
 
 
 # Reference
