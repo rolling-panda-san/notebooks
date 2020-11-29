@@ -7,6 +7,7 @@ The purpose is to reproduce what are presented in the papers, update the results
 
 Currently it maintains following strategies:
 - Time-series momentum (Moskowitz 2012)
+- Time-series momentum (Baltas 2020)
 - FX carry
 - Commodity term structure (aka commodity carry, Koijen 2018 etc)
 - Commodity momentum (Asness 2013 etc)
