@@ -13,6 +13,7 @@ Currently it maintains following strategies:
 - Commodity momentum (Asness 2013 etc)
 - Commodity skewness (Fernandez-Perez 2018 etc)
 - Cross-asset skewness (Baltas 2019 etc)
+- Equity overnight returns (Knuteson 2020 etc)
 
 Additionally, there are notebooks on the following topics:
 - Long-only performance on futures contracts
@@ -28,7 +29,8 @@ Additionally, there are notebooks on the following topics:
 - Baltas, N. and Salinas, G., 2019. Cross-Asset Skew. Available at SSRN.
 - Deutsche Bank, 2009, db Currency Return.
 - Fernandez-Perez, A., Frijns, B., Fuertes, A.M. and Miffre, J., 2018. The skewness of commodity futures returns. Journal of Banking & Finance, 86, pp.143-158.
-- Hollstein, F., Prokopczuk, M. and Tharann, B., 2020. Anomalies in commodity futures markets: Risk or mispricing?. Available at SSRN.
+- Hollstein, F., Prokopczuk, M. and Tharann, B., 2020. Anomalies in commodity futures markets: Risk or mispricing?. Available at SSRN
+- Knuteson, B., 2020. Strikingly Suspicious Overnight and Intraday Returns. arXiv preprint arXiv:2010.01727.
 - Koijen, R.S., Moskowitz, T.J., Pedersen, L.H. and Vrugt, E.B., 2018. Carry. Journal of Financial Economics, 127(2), pp.197-225.
 - Moskowitz, T.J., Ooi, Y.H. and Pedersen, L.H., 2012. Time series momentum. Journal of financial economics, 104(2), pp.228-250.
 - Santander, 2012, Measuring Historical Volatility.
