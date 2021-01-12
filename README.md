@@ -12,6 +12,7 @@ Currently it maintains following strategies:
 - Commodity term structure (aka commodity carry, Koijen 2018 etc)
 - Commodity momentum (Asness 2013 etc)
 - Commodity skewness (Fernandez-Perez 2018 etc)
+- Commodity intra-curve (La Française Group 2015)
 - Cross-asset skewness (Baltas 2019 etc)
 - Equity overnight returns (Knuteson 2020 etc)
 
@@ -32,5 +33,6 @@ Additionally, there are notebooks on the following topics:
 - Hollstein, F., Prokopczuk, M. and Tharann, B., 2020. Anomalies in commodity futures markets: Risk or mispricing?. Available at SSRN
 - Knuteson, B., 2020. Strikingly Suspicious Overnight and Intraday Returns. arXiv preprint arXiv:2010.01727.
 - Koijen, R.S., Moskowitz, T.J., Pedersen, L.H. and Vrugt, E.B., 2018. Carry. Journal of Financial Economics, 127(2), pp.197-225.
+- La Française Group, 2015, Commodity premia: It’s all about risk control
 - Moskowitz, T.J., Ooi, Y.H. and Pedersen, L.H., 2012. Time series momentum. Journal of financial economics, 104(2), pp.228-250.
 - Santander, 2012, Measuring Historical Volatility.
