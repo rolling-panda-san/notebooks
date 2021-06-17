@@ -15,6 +15,7 @@ Currently it maintains following strategies:
 - Commodity intra-curve (La Française Group 2015)
 - Cross-asset skewness (Baltas 2019 etc)
 - Equity overnight returns (Knuteson 2020 etc)
+- Equity short-term trading (Connors 2009)
 
 Additionally, there are notebooks on the following topics:
 - Long-only performance on futures contracts
@@ -28,6 +29,7 @@ Additionally, there are notebooks on the following topics:
 - Bakshi, G., Gao, X. and Rossi, A.G., 2019. Understanding the sources of risk underlying the cross section of commodity returns. Management Science, 65(2), pp.619-641.
 - Baltas, N. and Kosowski, R., 2020. Demystifying time-series momentum strategies: Volatility estimators, trading rules and pairwise correlations. Market Momentum: Theory and Practice", Wiley.
 - Baltas, N. and Salinas, G., 2019. Cross-Asset Skew. Available at SSRN.
+- Connors, L.A. and Alvarez, C., 2009. Short Term Trading Strategies that Work: A Quantified Guide to Trading Stocks and ETFs. TradingMarkets Publishing Group.
 - Deutsche Bank, 2009, db Currency Return.
 - Fernandez-Perez, A., Frijns, B., Fuertes, A.M. and Miffre, J., 2018. The skewness of commodity futures returns. Journal of Banking & Finance, 86, pp.143-158.
 - Hollstein, F., Prokopczuk, M. and Tharann, B., 2020. Anomalies in commodity futures markets: Risk or mispricing?. Available at SSRN
