@@ -8,6 +8,7 @@ The purpose is to reproduce what are presented in the papers, update the results
 Currently it maintains following strategies:
 - Time-series momentum (Moskowitz 2012)
 - Time-series momentum (Baltas 2020)
+- Time-series momentum with breakout signal (Chevallier and Ielpo 2014 etc)
 - FX carry
 - Commodity term structure (aka commodity carry, Koijen 2018 etc)
 - Commodity momentum (Asness 2013 etc)
@@ -29,6 +30,7 @@ Additionally, there are notebooks on the following topics:
 - Bakshi, G., Gao, X. and Rossi, A.G., 2019. Understanding the sources of risk underlying the cross section of commodity returns. Management Science, 65(2), pp.619-641.
 - Baltas, N. and Kosowski, R., 2020. Demystifying time-series momentum strategies: Volatility estimators, trading rules and pairwise correlations. Market Momentum: Theory and Practice", Wiley.
 - Baltas, N. and Salinas, G., 2019. Cross-Asset Skew. Available at SSRN.
+- Chevallier, J. and Ielpo, F., 2014. “Time series momentum” in commodity markets. Managerial Finance.
 - Connors, L.A. and Alvarez, C., 2009. Short Term Trading Strategies that Work: A Quantified Guide to Trading Stocks and ETFs. TradingMarkets Publishing Group.
 - Deutsche Bank, 2009, db Currency Return.
 - Fernandez-Perez, A., Frijns, B., Fuertes, A.M. and Miffre, J., 2018. The skewness of commodity futures returns. Journal of Banking & Finance, 86, pp.143-158.
