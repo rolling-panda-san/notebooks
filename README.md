@@ -14,6 +14,7 @@ Currently it maintains following strategies:
 - Commodity momentum (Asness 2013 etc)
 - Commodity skewness (Fernandez-Perez 2018 etc)
 - Commodity intra-curve (La Française Group 2015)
+- Commodity crush spread mean-reversion (Simon 1999)
 - Cross-asset skewness (Baltas 2019 etc)
 - Equity overnight returns (Knuteson 2020 etc)
 - Equity short-term trading (Connors 2009)
@@ -40,3 +41,4 @@ Additionally, there are notebooks on the following topics:
 - La Française Group, 2015, Commodity premia: It’s all about risk control
 - Moskowitz, T.J., Ooi, Y.H. and Pedersen, L.H., 2012. Time series momentum. Journal of financial economics, 104(2), pp.228-250.
 - Santander, 2012, Measuring Historical Volatility.
+- Simon, D.P., 1999. The soybean crush spread: Empirical evidence and trading strategies. Journal of Futures Markets: Futures, Options, and Other Derivative Products, 19(3), pp.271-289.
