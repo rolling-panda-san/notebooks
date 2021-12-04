@@ -15,6 +15,7 @@ Currently it maintains following strategies:
 - Commodity skewness (Fernandez-Perez 2018 etc)
 - Commodity intra-curve (La Française Group 2015)
 - Commodity crush spread mean-reversion (Simon 1999)
+- Commodity crack spread mean-reversion (Girma and Paulson 1999)
 - Cross-asset skewness (Baltas 2019 etc)
 - Equity overnight returns (Knuteson 2020 etc)
 - Equity short-term trading (Connors 2009)
@@ -35,6 +36,7 @@ Additionally, there are notebooks on the following topics:
 - Connors, L.A. and Alvarez, C., 2009. Short Term Trading Strategies that Work: A Quantified Guide to Trading Stocks and ETFs. TradingMarkets Publishing Group.
 - Deutsche Bank, 2009, db Currency Return.
 - Fernandez-Perez, A., Frijns, B., Fuertes, A.M. and Miffre, J., 2018. The skewness of commodity futures returns. Journal of Banking & Finance, 86, pp.143-158.
+- Girma, P.B. and Paulson, A.S., 1999. Risk arbitrage opportunities in petroleum futures spreads. Journal of Futures Markets, 19(8), pp.931-955.
 - Hollstein, F., Prokopczuk, M. and Tharann, B., 2020. Anomalies in commodity futures markets: Risk or mispricing?. Available at SSRN
 - Knuteson, B., 2020. Strikingly Suspicious Overnight and Intraday Returns. arXiv preprint arXiv:2010.01727.
 - Koijen, R.S., Moskowitz, T.J., Pedersen, L.H. and Vrugt, E.B., 2018. Carry. Journal of Financial Economics, 127(2), pp.197-225.
