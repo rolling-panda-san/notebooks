@@ -19,6 +19,7 @@ Currently it maintains following strategies:
 - Cross-asset skewness (Baltas 2019 etc)
 - Equity overnight returns (Knuteson 2020 etc)
 - Equity short-term trading (Connors 2009)
+- ETF intraday momentum (Gao 2018)
 
 Additionally, there are notebooks on the following topics:
 - Long-only performance on futures contracts
@@ -36,6 +37,7 @@ Additionally, there are notebooks on the following topics:
 - Connors, L.A. and Alvarez, C., 2009. Short Term Trading Strategies that Work: A Quantified Guide to Trading Stocks and ETFs. TradingMarkets Publishing Group.
 - Deutsche Bank, 2009, db Currency Return.
 - Fernandez-Perez, A., Frijns, B., Fuertes, A.M. and Miffre, J., 2018. The skewness of commodity futures returns. Journal of Banking & Finance, 86, pp.143-158.
+- Gao, L., Han, Y., Li, S.Z. and Zhou, G., 2018. Market intraday momentum. Journal of Financial Economics, 129(2), pp.394-414.
 - Girma, P.B. and Paulson, A.S., 1999. Risk arbitrage opportunities in petroleum futures spreads. Journal of Futures Markets, 19(8), pp.931-955.
 - Hollstein, F., Prokopczuk, M. and Tharann, B., 2020. Anomalies in commodity futures markets: Risk or mispricing?. Available at SSRN
 - Knuteson, B., 2020. Strikingly Suspicious Overnight and Intraday Returns. arXiv preprint arXiv:2010.01727.
