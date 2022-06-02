@@ -10,6 +10,9 @@ This repository documents researches on
 The purpose is to reproduce what are presented in the papers, update the results on a regular basis and potentially add
 further experiments. Notebooks are automatically pushed to github.
 
+** Throughout the notebooks, an internal library called `vivace` is used to facilitate the data management and quantitative analysis. 
+This library will remain private as it's proprietary. **
+
 ## What are the contents?
 
 Currently, it maintains the following trading strategies
