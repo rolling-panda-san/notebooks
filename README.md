@@ -55,6 +55,7 @@ Additionally, there are notebooks on the following topics:
 - Baltas, N. and Kosowski, R., 2020. Demystifying time-series momentum strategies: Volatility estimators, trading rules
   and pairwise correlations. Market Momentum: Theory and Practice", Wiley.
 - Baltas, N. and Salinas, G., 2019. Cross-Asset Skew. Available at SSRN.
+- BCOM Methodology - Bloomberg Professional Services https://assets.bbhub.io/professional/sites/10/BCOM-Methodology-MAR-2022_FINAL.pdf
 - Chevallier, J. and Ielpo, F., 2014. “Time series momentum” in commodity markets. Managerial Finance.
 - Connors, L.A. and Alvarez, C., 2009. Short Term Trading Strategies that Work: A Quantified Guide to Trading Stocks and
   ETFs. TradingMarkets Publishing Group.
