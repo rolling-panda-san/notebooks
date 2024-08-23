@@ -29,6 +29,7 @@ Currently, it maintains the following trading strategies
 | Commodity intra-curve                     | La Française Group 2015       | Commodity                           | `commodity_intra_curve.ipynb`             |
 | Commodity crush spread mean-reversion     | Simon 1999                    | Commodity                           | `commodity_crush_spread_stat_arb.ipynb`   |
 | Commodity crack spread mean-reversion     | Girma and Paulson 1999        | Commodity                           | `commodity_crack_spread_stat_arb.ipynb`   |
+| Commodity basis momentum                  | Boons 2019                    | Commodity                           | `commodity_basis_momentum.ipynb`          |
 | Cross-asset skewness                      | Baltas 2019 etc               | Equity, Fixed-income, FX, Commodity | `cross_asset_skewness.ipynb`              |
 | Equity overnight returns                  | Knuteson 2020 etc             | Equity                              | `overnight_returns.ipynb`                 |
 | Equity short-term trading                 | Connors 2009                  | Equity                              | `equity_short_term_trading_connors.ipynb` |
@@ -56,6 +57,7 @@ Additionally, there are notebooks on the following topics:
   and pairwise correlations. Market Momentum: Theory and Practice", Wiley.
 - Baltas, N. and Salinas, G., 2019. Cross-Asset Skew. Available at SSRN.
 - BCOM Methodology - Bloomberg Professional Services https://assets.bbhub.io/professional/sites/10/BCOM-Methodology-MAR-2022_FINAL.pdf
+- Boons, M. and Prado, M.P., 2019. Basis momentum. The Journal of Finance, 74(1), pp.239-279.
 - Chevallier, J. and Ielpo, F., 2014. “Time series momentum” in commodity markets. Managerial Finance.
 - Connors, L.A. and Alvarez, C., 2009. Short Term Trading Strategies that Work: A Quantified Guide to Trading Stocks and
   ETFs. TradingMarkets Publishing Group.
