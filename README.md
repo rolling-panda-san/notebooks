@@ -38,14 +38,15 @@ Currently, it maintains the following trading strategies
 
 Additionally, there are notebooks on the following topics:
 
-| Analysis                                   | Main reference | Asset Class                         | Notebook                          |
-|--------------------------------------------|----------------|-------------------------------------|-----------------------------------|
-| Long-only performance on futures contracts | -              | Equity, Fixed-income, FX, Commodity | `futures_long_only.ipynb`         |
-| Actively traded contract months            | -              | Equity, Fixed-income, FX, Commodity | `futures_active_contracts.ipynb`  |
-| Greeks under Normal Black-Scholes model    | -              | -                                   | `Greeks_under_normal_model.ipynb` |
-| Realised volatility measures               | Santander 2012 | Equity, Fixed-income, FX, Commodity | `realised_volatility.ipynb`       |
-| Inverse options                            | Alexander 2021 | Crypto                              | `inverse_option.ipynb`            |
-| Uniswap V2 liquidity pool yield            | -              | Crypto                              | `crypto_uniswap_graph.ipynb`      |
+| Analysis                                   | Main reference | Asset Class                         | Notebook                                    |
+|--------------------------------------------|----------------|-------------------------------------|---------------------------------------------|
+| Long-only performance on futures contracts | -              | Equity, Fixed-income, FX, Commodity | `futures_long_only.ipynb`                   |
+| Actively traded contract months            | -              | Equity, Fixed-income, FX, Commodity | `futures_active_contracts.ipynb`            |
+| Greeks under Normal Black-Scholes model    | -              | -                                   | `Greeks_under_normal_model.ipynb`           |
+| Realised volatility measures               | Santander 2012 | Equity, Fixed-income, FX, Commodity | `realised_volatility.ipynb`                 |
+| Inverse options                            | Alexander 2021 | Crypto                              | `inverse_option.ipynb`                      |
+| Uniswap V2 liquidity pool yield            | -              | Crypto                              | `crypto_uniswap_graph.ipynb`                |
+| The virtue of complexity everywhere        | Kelly 2022     | -                                   | `the_virtue_of_complexity_everywhere.ipynb` |
 
 # Reference
 
@@ -71,6 +72,7 @@ Additionally, there are notebooks on the following topics:
   Markets, 19(8), pp.931-955.
 - Hollstein, F., Prokopczuk, M. and Tharann, B., 2020. Anomalies in commodity futures markets: Risk or mispricing?.
   Available at SSRN
+- Kelly, B.T., Malamud, S. and Zhou, K., 2022. The virtue of complexity everywhere. _Available at SSRN 4166368_.
 - Knuteson, B., 2020. Strikingly Suspicious Overnight and Intraday Returns. arXiv preprint arXiv:2010.01727.
 - Koijen, R.S., Moskowitz, T.J., Pedersen, L.H. and Vrugt, E.B., 2018. Carry. Journal of Financial Economics, 127(2),
   pp.197-225.
