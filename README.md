@@ -17,24 +17,25 @@ This library will remain private as it's proprietary. **
 
 Currently, it maintains the following trading strategies
 
-| Strategy name                                | Main reference                | Asset class                         | Notebook                                          |
-|----------------------------------------------|-------------------------------|-------------------------------------|---------------------------------------------------|
-| Time-series momentum                         | Moskowitz 2012                | Equity, Fixed-income, FX, Commodity | `trend_following_moskowitz2012.ipynb`             |
-| Time-series momentum                         | Baltas 2020                   | Equity, Fixed-income, FX, Commodity | `trend_following_baltas2020.ipynb`                |
-| Time-series momentum with breakout signal    | Chevallier and Ielpo 2014 etc | Equity, Fixed-income, FX, Commodity | `trend_following_breakout.ipynb`                  |
-| FX carry                                     | Deutsche Bank 2009            | FX                                  | `fx_carry.ipynb`                                  |
-| Commodity term structure                     | Koijen 2018 etc               | Commodity                           | `commodity_term_structure.ipynb`                  |
-| Commodity momentum                           | Asness 2013 etc               | Commodity                           | `commodity_momentum.ipynb`                        |
-| Commodity skewness                           | Fernandez-Perez 2018 etc      | Commodity                           | `commodity_skewness.ipynb`                        |
-| Commodity intra-curve                        | La Française Group 2015       | Commodity                           | `commodity_intra_curve.ipynb`                     |
-| Commodity crush spread mean-reversion        | Simon 1999                    | Commodity                           | `commodity_crush_spread_stat_arb.ipynb`           |
-| Commodity crack spread mean-reversion        | Girma and Paulson 1999        | Commodity                           | `commodity_crack_spread_stat_arb.ipynb`           |
-| Commodity basis momentum                     | Boons 2019                    | Commodity                           | `commodity_basis_momentum.ipynb`                  |
-| Commodity trend following in Chinese futures | Zhang and Zhou 2017           | Commodity                           | `commodity_trend_following_chinese_futures.ipynb` |
-| Cross-asset skewness                         | Baltas 2019 etc               | Equity, Fixed-income, FX, Commodity | `cross_asset_skewness.ipynb`                      |
-| Equity overnight returns                     | Knuteson 2020 etc             | Equity                              | `overnight_returns.ipynb`                         |
-| Equity short-term trading                    | Connors 2009                  | Equity                              | `equity_short_term_trading_connors.ipynb`         |
-| ETF intraday momentum                        | Gao 2018                      | Equity                              | `equity_etf_intraday_momentum.ipynb`              |
+| Strategy name                               | Main reference               | Asset class                         | Notebook                                          |
+|---------------------------------------------|------------------------------|-------------------------------------|---------------------------------------------------|
+| Time-series momentum                        | Moskowitz 2012               | Equity, Fixed-income, FX, Commodity | `trend_following_moskowitz2012.ipynb`             |
+| Time-series momentum                        | Baltas 2020                  | Equity, Fixed-income, FX, Commodity | `trend_following_baltas2020.ipynb`                |
+| Time-series momentum with breakout signal   | Chevallier and Ielpo 2014 etc | Equity, Fixed-income, FX, Commodity | `trend_following_breakout.ipynb`                  |
+| FX carry                                    | Deutsche Bank 2009           | FX                                  | `fx_carry.ipynb`                                  |
+| Commodity term structure                    | Koijen 2018 etc              | Commodity                           | `commodity_term_structure.ipynb`                  |
+| Commodity momentum                          | Asness 2013 etc              | Commodity                           | `commodity_momentum.ipynb`                        |
+| Commodity skewness                          | Fernandez-Perez 2018 etc     | Commodity                           | `commodity_skewness.ipynb`                        |
+| Commodity intra-curve                       | La Française Group 2015      | Commodity                           | `commodity_intra_curve.ipynb`                     |
+| Commodity crush spread mean-reversion       | Simon 1999                   | Commodity                           | `commodity_crush_spread_stat_arb.ipynb`           |
+| Commodity crack spread mean-reversion       | Girma and Paulson 1999       | Commodity                           | `commodity_crack_spread_stat_arb.ipynb`           |
+| Commodity basis momentum                    | Boons 2019                   | Commodity                           | `commodity_basis_momentum.ipynb`                  |
+| Commodity basis reversal                    | Rossi 2025                   | Commodity                           | `commodity_basis_momentum.ipynb`                  |
+| Commodity trend following in Chinese futures | Zhang and Zhou 2017          | Commodity                           | `commodity_trend_following_chinese_futures.ipynb` |
+| Cross-asset skewness                        | Baltas 2019 etc              | Equity, Fixed-income, FX, Commodity | `cross_asset_skewness.ipynb`                      |
+| Equity overnight returns                    | Knuteson 2020 etc            | Equity                              | `overnight_returns.ipynb`                         |
+| Equity short-term trading                   | Connors 2009                 | Equity                              | `equity_short_term_trading_connors.ipynb`         |
+| ETF intraday momentum                       | Gao 2018                     | Equity                              | `equity_etf_intraday_momentum.ipynb`              |
 
 Additionally, there are notebooks on the following topics:
 
@@ -83,3 +84,4 @@ Additionally, there are notebooks on the following topics:
 - Santander, 2012, Measuring Historical Volatility.
 - Simon, D.P., 1999. The soybean crush spread: Empirical evidence and trading strategies. Journal of Futures Markets:
   Futures, Options, and Other Derivative Products, 19(3), pp.271-289.
+- Rossi, A.G., Zhang, Y. and Zhu, Y., 2025. Short-Term Basis Reversal. Available at SSRN 5250499.
