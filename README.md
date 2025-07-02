@@ -30,7 +30,7 @@ Currently, it maintains the following trading strategies
 | Commodity crush spread mean-reversion       | Simon 1999                   | Commodity                           | `commodity_crush_spread_stat_arb.ipynb`           |
 | Commodity crack spread mean-reversion       | Girma and Paulson 1999       | Commodity                           | `commodity_crack_spread_stat_arb.ipynb`           |
 | Commodity basis momentum                    | Boons 2019                   | Commodity                           | `commodity_basis_momentum.ipynb`                  |
-| Commodity basis reversal                    | Rossi 2025                   | Commodity                           | `commodity_basis_momentum.ipynb`                  |
+| Commodity basis reversal                    | Rossi 2025                   | Commodity                           | `commodity_basis_reversal.ipynb`                  |
 | Commodity trend following in Chinese futures | Zhang and Zhou 2017          | Commodity                           | `commodity_trend_following_chinese_futures.ipynb` |
 | Cross-asset skewness                        | Baltas 2019 etc              | Equity, Fixed-income, FX, Commodity | `cross_asset_skewness.ipynb`                      |
 | Equity overnight returns                    | Knuteson 2020 etc            | Equity                              | `overnight_returns.ipynb`                         |
